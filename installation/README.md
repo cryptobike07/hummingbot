@@ -2,7 +2,7 @@
 
 This folder contains automated scripts for installing Hummingbot and operating it with Docker.
 
-For full documentation, please vist the [Hummingbot Installation Guide](https://docs.hummingbot.io/installation/).
+For full documentation, please visit the [Hummingbot Installation Guide](https://docs.hummingbot.io/installation/).
 
 ## Installation using Docker (Recommended)
 
